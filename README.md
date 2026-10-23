@@ -253,5 +253,4 @@ Full-Stack Developer in progress · React · Next.js · TypeScript
 _Built with care for a better everyday shopping experience._
 
 </div>
-
-
+     
