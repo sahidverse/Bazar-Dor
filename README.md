@@ -188,6 +188,7 @@ bazar-dor/
 └── README.md
 ```
 
+
 ## 🧩 Core Application Sections
 
 | Section        | Description                                       |
