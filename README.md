@@ -161,7 +161,8 @@ Visit the following address in your browser:
 ```text
 http://localhost:3000
 ```
-
+  
+  
 ## 📂 Project Structure
 
 The following is an example structure based on the described application. Adjust it to match your actual files.
