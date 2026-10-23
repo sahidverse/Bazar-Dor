@@ -218,6 +218,8 @@ Run the scripts configured in your `package.json`.
 - [ ] More accessibility and performance improvements
 - [ ] User notifications for significant price changes -->
 
+
+
 <!-- ## 🤝 Contributing
 
 Contributions, ideas, and feedback are welcome.
