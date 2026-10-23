@@ -153,7 +153,7 @@ npm install
 ```bash
 npm run dev
 ```
-
+   
 ### 4. Open the Application
 
 Visit the following address in your browser:
@@ -161,7 +161,6 @@ Visit the following address in your browser:
 ```text
 http://localhost:3000
 ```
-  
   
 ## 📂 Project Structure
 
