@@ -219,7 +219,7 @@ Run the scripts configured in your `package.json`.
 - [ ] User notifications for significant price changes -->
 
 
-
+   
 <!-- ## 🤝 Contributing
 
 Contributions, ideas, and feedback are welcome.
