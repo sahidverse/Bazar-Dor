@@ -198,6 +198,8 @@ bazar-dor/
 | All Products   | Displays the wider product catalog                |
 | Product Card   | Reusable UI for product details and pricing       |
 
+
+
 ## 🛠️ Available Scripts
 
 Run the scripts configured in your `package.json`.
