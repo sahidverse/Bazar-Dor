@@ -26,15 +26,6 @@
 
 ---
 
-<!-- Custom SVG Hero Banner -->
-<div align="center">
-  <img
-    width="100%"
-    alt="Bazar-Dor — bringing market prices closer to you"
-    src="./public/readmebanner.png"
-  />
-</div>
-
 ## 📖 About the Project
 
 **Bazar-Dor** is a modern web application designed to make everyday market prices easier to explore and understand.
