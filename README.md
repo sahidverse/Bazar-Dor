@@ -246,6 +246,8 @@ Full-Stack Developer in progress · React · Next.js · TypeScript
 | <img src="./public/logo.png" alt="Features" width="30"/> | <a  style="font-size: 16px; ">বাজার দর</a> |
 | -------------------------------------------------------- | ------------------------------------------ |
 
+
+
 **Making market prices easier to understand.**
 
 _Built with care for a better everyday shopping experience._
